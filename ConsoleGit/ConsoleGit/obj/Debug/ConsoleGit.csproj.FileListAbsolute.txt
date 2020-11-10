@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\ConsoleGit\ConsoleGit\bin\Debug\ConsoleGit.exe.config
+C:\Users\User\source\repos\ConsoleGit\ConsoleGit\bin\Debug\ConsoleGit.exe
+C:\Users\User\source\repos\ConsoleGit\ConsoleGit\bin\Debug\ConsoleGit.pdb
+C:\Users\User\source\repos\ConsoleGit\ConsoleGit\obj\Debug\ConsoleGit.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ConsoleGit\ConsoleGit\obj\Debug\ConsoleGit.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConsoleGit\ConsoleGit\obj\Debug\ConsoleGit.exe
+C:\Users\User\source\repos\ConsoleGit\ConsoleGit\obj\Debug\ConsoleGit.pdb
